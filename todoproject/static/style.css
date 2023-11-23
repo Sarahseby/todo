@@ -1,0 +1,17 @@
+ .banner{
+   background-color:yellow;
+   width:100%;
+   height:100px;
+   margin-bottom:30px;
+ }
+
+ .banner-text{
+  top:50%;
+  right:50%;
+  text-align:center;
+  text-shadow:0 1px 0 #fff;
+  font-weight:bold;
+  transform:rotate;
+
+
+ }
